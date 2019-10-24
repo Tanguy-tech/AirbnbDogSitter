@@ -3,22 +3,6 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Dans ce repo vous trouverez l'exercice AIRBNB DOG SITTER qui consiste a s'entrainer a la création d'une base de données en reltion N-N
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+l'exercice nous demnde alors de crées plusieurs modèles et tables et de les mettres en relation ! 
